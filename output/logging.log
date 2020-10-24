@@ -1,0 +1,197 @@
+2020-10-22 00:26:03 INFO  - [Ljava.lang.StackTraceElement;@747edf66 invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=86.0.4240.80)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:82e:7a57:edda:3984%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:49836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 652e3247e7626932d1d715b03f7002a9
+*** Element info: {Using=css selector, value=456#h_search-input}
+2020-10-23 18:50:33 INFO  - [Ljava.lang.StackTraceElement;@747edf66 invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:427:b7e6:1dbf:463%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:49518}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: bdc61b8c62053ae3e1cd5891ed8a5809
+*** Element info: {Using=css selector, value=456#h_search-input}
+2020-10-23 18:51:10 INFO  - [Ljava.lang.StackTraceElement;@a2431d0 invalid selector: Unable to locate an element with the xpath expression 456//button[@id='h_search-btn'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': Type conversion failed while evaluating the expression.
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:427:b7e6:1dbf:463%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:49570}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ed02b78d044393456b64c1ee867ee359
+*** Element info: {Using=xpath, value=456//button[@id='h_search-btn']}
+2020-10-23 18:51:45 INFO  - clicaNotebook
+2020-10-23 18:51:47 INFO  - clicaNotebook
+2020-10-23 18:51:53 INFO  - Retorna Valor do Produto
+2020-10-23 18:52:53 INFO  - [Ljava.lang.StackTraceElement;@7205765b no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='root']/div/div[2]/div[2]/div[1]/div[1]/div"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:427:b7e6:1dbf:463%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:49626}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b8a4a0c04b28dc066f5663aef8093402
+*** Element info: {Using=xpath, value=//*[@id='root']/div/div[2]/div[2]/div[1]/div[1]/div}
+2020-10-23 18:53:28 INFO  - clicaNotebook
+2020-10-23 18:53:30 INFO  - clicaNotebook
+2020-10-23 18:53:39 INFO  - Retorna Valor do Produto
+2020-10-23 18:53:50 INFO  - [Ljava.lang.StackTraceElement;@169e6180 no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='root']/div/div[2]/div[2]/div[1]/div[1]/div"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:427:b7e6:1dbf:463%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:49711}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 32c062f56135d049d60d58128ad6486b
+*** Element info: {Using=xpath, value=//*[@id='root']/div/div[2]/div[2]/div[1]/div[1]/div}
+2020-10-23 20:49:44 INFO  - clicaNotebook
+2020-10-23 20:49:47 INFO  - clicaNotebook
+2020-10-23 20:49:51 INFO  - Retorna Valor do Produto
+2020-10-23 20:50:03 INFO  - [Ljava.lang.StackTraceElement;@7205765b no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='root']/div/div[2]/div[2]/div[1]/div[1]/div"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:427:b7e6:1dbf:463%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:52481}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5d01c7cf7d12a626f06c0fb399ee7748
+*** Element info: {Using=xpath, value=//*[@id='root']/div/div[2]/div[2]/div[1]/div[1]/div}
+2020-10-23 20:58:00 INFO  - clicaNotebook
+2020-10-23 20:58:02 INFO  - clicaNotebook
+2020-10-23 20:58:07 INFO  - Retorna Valor do Produto
+2020-10-23 20:58:17 INFO  - [Ljava.lang.StackTraceElement;@7205765b no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='root']/div/div[2]/div[2]/div[1]/div[1]/div"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:427:b7e6:1dbf:463%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:52739}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5a10a96e5506a966c3a22399bd288043
+*** Element info: {Using=xpath, value=//*[@id='root']/div/div[2]/div[2]/div[1]/div[1]/div}
+2020-10-23 21:05:39 INFO  - clicaNotebook
+2020-10-23 21:05:41 INFO  - clicaNotebook
+2020-10-23 21:05:45 INFO  - Retorna Valor do Produto
+2020-10-23 21:05:46 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-23 21:05:46 INFO  - R$ 6.799,99
+2020-10-23 21:10:34 INFO  - clicaNotebook
+2020-10-23 21:10:36 INFO  - clicaNotebook
+2020-10-23 21:10:40 INFO  - Retorna Valor do Produto
+2020-10-23 21:10:41 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-23 21:10:41 INFO  - R$ 6.799,99
+2020-10-23 21:10:41 INFO  - Teste: org.junit.rules.TestName@67c33749 Finalizado com Sucesso!
+2020-10-23 21:10:41 INFO  - Tempo de execução: 15segundos
+2020-10-23 21:11:08 INFO  - clicaNotebook
+2020-10-23 21:11:10 INFO  - clicaNotebook
+2020-10-23 21:11:14 INFO  - Retorna Valor do Produto
+2020-10-23 21:11:15 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-23 21:11:15 INFO  - R$ 6.799,99
+2020-10-23 21:11:15 INFO  - Teste: org.junit.rules.TestName@67c33749 Finalizado com Sucesso!
+2020-10-23 21:11:15 INFO  - Tempo de execução: 16 - segundos
+2020-10-23 21:31:06 INFO  - clicaNotebook
+2020-10-23 21:31:07 INFO  - clicaNotebook
+2020-10-23 21:31:12 INFO  - Retorna Valor do Produto
+2020-10-23 21:31:13 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-23 21:31:13 INFO  - R$ 6.799,99
+2020-10-23 21:31:14 INFO  - Teste: org.junit.rules.TestName@4c1909a3 Finalizado com Sucesso!
+2020-10-23 21:31:14 INFO  - Tempo de execução: 20 - segundos
+2020-10-23 21:35:34 INFO  - clicaNotebook
+2020-10-23 21:35:36 INFO  - clicaNotebook
+2020-10-23 21:35:40 INFO  - Retorna Valor do Produto
+2020-10-23 21:35:41 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-23 21:35:41 INFO  - R$ 6.799,99
+2020-10-23 21:35:41 INFO  - Teste: org.junit.rules.TestName@67c33749 Finalizado com Sucesso!
+2020-10-23 21:35:41 INFO  - Tempo de execução: 15 - segundos
+2020-10-23 21:49:45 INFO  - clicaNotebook
+2020-10-23 21:49:47 INFO  - clicaNotebook
+2020-10-23 21:49:51 INFO  - Retorna Valor do Produto
+2020-10-23 21:49:52 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-23 21:49:52 INFO  - R$ 6.799,99
+2020-10-23 21:49:52 INFO  - Teste: org.junit.rules.TestName@5d0a1059 Finalizado com Sucesso!
+2020-10-23 21:49:52 INFO  - Tempo de execução: 20 - segundos
+2020-10-23 22:04:41 INFO  - clicaNotebook
+2020-10-23 22:04:42 INFO  - clicaNotebook
+2020-10-23 22:04:46 INFO  - Retorna Valor do Produto
+2020-10-23 22:04:47 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-23 22:04:47 INFO  - R$ 6.799,99
+2020-10-23 22:04:47 INFO  - Teste: org.junit.rules.TestName@750e2b97 Finalizado com Sucesso!
+2020-10-23 22:04:47 INFO  - Tempo de execução: 15 - segundos
+2020-10-23 22:07:56 INFO  - clicaNotebook
+2020-10-23 22:07:58 INFO  - clicaNotebook
+2020-10-23 22:08:02 INFO  - Retorna Valor do Produto
+2020-10-23 22:08:03 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-23 22:08:03 INFO  - R$ 6.799,99
+2020-10-23 22:08:03 INFO  - Teste: org.junit.rules.TestName@750e2b97 Finalizado com Sucesso!
+2020-10-23 22:08:03 INFO  - Tempo de execução: 14 - segundos
+2020-10-24 11:37:52 INFO  - clicaNotebook
+2020-10-24 11:37:54 INFO  - clicaNotebook
+2020-10-24 11:38:04 INFO  - [Ljava.lang.StackTraceElement;@3c7f66c4 no such element: Unable to locate element: {"method":"xpath","selector":"//picture[1]/img[contains(@src,'https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/132490/7/132490742_1GG.png')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:8ad:1bc4:2176:dedc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:50172}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 09d218dc0e970feb64032178904c56d1
+*** Element info: {Using=xpath, value=//picture[1]/img[contains(@src,'https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/132490/7/132490742_1GG.png')]}
+2020-10-24 11:38:04 INFO  - Teste: org.junit.rules.TestName@f0da945 Finalizado com Sucesso!
+2020-10-24 11:38:04 INFO  - Tempo de execução: 19 - segundos
+2020-10-24 11:38:39 INFO  - clicaNotebook
+2020-10-24 11:38:41 INFO  - clicaNotebook
+2020-10-24 11:38:51 INFO  - [Ljava.lang.StackTraceElement;@2ea41516 no such element: Unable to locate element: {"method":"xpath","selector":"//picture[1]/img[contains(@src,'https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/132490/7/132490742_1GG.png')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:8ad:1bc4:2176:dedc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:50245}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 254a7600e3ac6fc4593a2edc3a9e0ab1
+*** Element info: {Using=xpath, value=//picture[1]/img[contains(@src,'https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/132490/7/132490742_1GG.png')]}
+2020-10-24 11:38:51 INFO  - Teste: org.junit.rules.TestName@194bcebf Finalizado com Sucesso!
+2020-10-24 11:38:51 INFO  - Tempo de execução: 29 - segundos
+2020-10-24 11:40:28 INFO  - clicaNotebook
+2020-10-24 11:40:29 INFO  - clicaNotebook
+2020-10-24 11:40:38 INFO  - Retorna Valor do Produto
+2020-10-24 11:40:40 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-24 11:40:40 INFO  - R$ 6.799,99
+2020-10-24 11:40:40 INFO  - Teste: org.junit.rules.TestName@d5b810e Finalizado com Sucesso!
+2020-10-24 11:40:40 INFO  - Tempo de execução: 18 - segundos
+2020-10-24 11:41:36 INFO  - clicaNotebook
+2020-10-24 11:41:37 INFO  - clicaNotebook
+2020-10-24 11:41:40 INFO  - Retorna Valor do Produto
+2020-10-24 11:41:41 INFO  - Valor Retornado: R$ 6.799,99
+2020-10-24 11:41:41 INFO  - R$ 6.799,99
+2020-10-24 11:41:41 INFO  - Teste: buscarNotebook Finalizado com Sucesso!
+2020-10-24 11:41:41 INFO  - Tempo de execução: 10 - segundos
+2020-10-24 12:11:48 INFO  - clicaNotebook
+2020-10-24 12:11:49 INFO  - clicaNotebook
+2020-10-24 12:11:54 INFO  - [Ljava.lang.StackTraceElement;@229c6181 Cannot locate an element using xpath=//picture[1]/img[contains(@src,'https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/132490/7/132490742_1GG.png')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:8ad:1bc4:2176:dedc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: driver.version: RemoteWebDriver
+2020-10-24 12:11:54 INFO  - Teste: buscarNotebook Finalizado com Sucesso!
+2020-10-24 12:11:54 INFO  - Tempo de execução: 45 - segundos
+2020-10-24 12:13:15 INFO  - [Ljava.lang.StackTraceElement;@50ad3bc1 unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:8ad:1bc4:2176:dedc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:50596}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 17ffbb597a3e60f68b6a36c5a8df7742
+2020-10-24 12:13:15 INFO  - Teste: buscarNotebook Finalizado com Sucesso!
+2020-10-24 12:13:15 INFO  - Tempo de execução: 31 - segundos
+2020-10-24 12:18:41 INFO  - [Ljava.lang.StackTraceElement;@247d8ae timeout: Timed out receiving message from renderer: -0.001
+  (Session info: headless chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro.local', ip: 'fe80:0:0:0:8ad:1bc4:2176:dedc%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/9z/x3ptsmwd1jz...}, goog:chromeOptions: {debuggerAddress: localhost:50610}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ea147fd4b9a2bd1de24c0d07e5215ca6
+2020-10-24 12:18:41 INFO  - Teste: buscarNotebook Finalizado com Sucesso!
+2020-10-24 12:18:41 INFO  - Tempo de execução: 301 - segundos

@@ -1,0 +1,9 @@
+page/ProdutoPage.class
+page/BasePage.class
+page/CestaPage.class
+exceptions/TimeOutException.class
+cenarios/TestesAmericanas.class
+page/HomePage.class
+exceptions/ElementoNaoEncontradoException.class
+page/GarantiaPage.class
+page/ResultadoDaBuscaPage.class
